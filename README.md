@@ -4,13 +4,13 @@
 
 # BioGone
 
-Get rid of the annoying BioSign that has been applied in some facilities, which is a complete joke and a total waste of budget that could be used to improve the food quality, or keep the student apartment rent down.
+Get rid of the annoying BioSig that has been applied in some facilities, which is a complete joke and a total waste of budget that could be used to improve the food quality, or keep the student apartment rent down.
 
 ## Features:
   
-- Get rid of the annoying BioSign.
-- Get rid of the annoying BioSign.
-- Get rid of the annoying BioSign.
+- Get rid of the annoying BioSig.
+- Get rid of the annoying BioSig.
+- Get rid of the annoying BioSig.
 
 
 ## Installation:
